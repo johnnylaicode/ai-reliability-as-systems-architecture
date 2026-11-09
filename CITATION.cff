@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use or reference this whitepaper, please cite it using
+  the preferred citation metadata below.
+
+title: "AI Reliability as Systems Architecture"
+
+authors:
+  - family-names: "Lai"
+    given-names: "Johnny"
+
+version: "1.0"
+
+date-released: "2026-11-09"
+
+abstract: >-
+  AI reliability is a property of the complete AI-enabled system,
+  not primarily of the AI model. This whitepaper presents an AI
+  Reliability Architecture Framework for designing reliable AI-enabled
+  systems as AI moves from generating information to participating in
+  workflows, influencing decisions, and executing actions. The framework
+  defines nine core components: Application Characteristics, Intended
+  Operating Envelope, Reliability Profile, Reliability Domains,
+  Reliability Requirements, Reliability Functions, Architectural Controls,
+  Reliability Evidence, and Reliability Acceptance Criteria. Reliability
+  Maintenance operates across the lifecycle. The paper also defines three
+  supervisory Reliability Functions—Observe, Constrain, and Recover—and
+  explains how authority, operating conditions, controls, evidence, human
+  oversight, and security contribute to acceptable system operation.
+
+keywords:
+  - AI reliability
+  - AI systems architecture
+  - AI architecture
+  - AI-enabled systems
+  - agentic AI
+  - workflow AI
+  - AI governance
+  - AI assurance
+  - AI controls
+  - human-AI interaction
+  - intended operating envelope
+  - reliability engineering
+
+license: CC-BY-NC-ND-4.0
+
+repository: "https://github.com/johnnylaicode/ai-reliability-as-systems-architecture"
+
+url: "https://github.com/johnnylaicode/ai-reliability-as-systems-architecture"
+
+preferred-citation:
+  type: generic
+  title: "AI Reliability as Systems Architecture"
+  authors:
+    - family-names: "Lai"
+      given-names: "Johnny"
+  year: 2026
+  month: 11
+  version: "1.0"
+  medium: "Whitepaper"
+  url: "https://github.com/johnnylaicode/ai-reliability-as-systems-architecture"
+  abstract: >-
+    AI reliability must be addressed at the system level. This whitepaper
+    presents an AI Reliability Architecture Framework that connects
+    Application Characteristics and the Intended Operating Envelope to a
+    Reliability Profile, Reliability Domains, Reliability Requirements,
+    Reliability Functions, Architectural Controls, Reliability Evidence,
+    Reliability Acceptance Criteria, and lifecycle Reliability Maintenance.
